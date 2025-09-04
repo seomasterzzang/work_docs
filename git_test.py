@@ -1,2 +1,8 @@
 print("하이")
 print("테스트")
+print("하이")
+print("테스트")
+print("하이")
+print("테스트")
+print("하이")
+print("테스트")
